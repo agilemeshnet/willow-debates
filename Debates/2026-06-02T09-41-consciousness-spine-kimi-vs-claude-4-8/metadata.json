@@ -1,0 +1,18 @@
+{
+  "workflow_id": "consciousness-spine-kimi-vs-48",
+  "motion": "Topic: Peter has named a four-layer spine for assembling a head of consciousness: nouns (located things) \u2192 verbs (actions as bets) \u2192 predict-vs-perceive (diff = learning signal) \u2192 phenomenology \u2192 consciousness. Each Derek body-verb ladders up to this. Is this spine genuinely a research program that could fail, or is it dressed-up panpsychism that cannot be falsified? Defend or attack.",
+  "variant": "kimi-vs-4.8",
+  "proposition": null,
+  "opposition": null,
+  "referee": null,
+  "scribe": "claude-opus-4-7",
+  "opened_ts": "2026-06-02T09:41:59Z",
+  "closed_ts": "2026-06-02T09:47:40Z",
+  "speech_count": 6,
+  "referee_tally": null,
+  "audience_vote": null,
+  "verdict_divergence": null,
+  "cognee_dataset": "debates_2026_06_02",
+  "transcript_path": "/Volumes/Delila/Doozer/morph/meetings/consciousness-spine-kimi-vs-48/transcript.md",
+  "ledger_path": "/Volumes/Delila/Doozer/morph/meetings/consciousness-spine-kimi-vs-48/turns.jsonl"
+}

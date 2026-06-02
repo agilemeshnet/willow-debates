@@ -1,0 +1,18 @@
+{
+  "workflow_id": "shape-matching-vs-apophenia",
+  "motion": "This house believes cross-scale shape-matching is a method of discovery, not an engine of apophenia.",
+  "variant": "trivium-watchmaker",
+  "proposition": "kimi-2.6",
+  "opposition": "claude-4.7",
+  "referee": "claude-4.8",
+  "scribe": "claude-opus-4-7",
+  "opened_ts": "2026-06-02T10:06:47Z",
+  "closed_ts": "2026-06-02T10:48:59Z",
+  "speech_count": 21,
+  "referee_tally": "TALLY: Proposition: 4 kept, 1 struck. Opposition: 5 kept, 0 struck. The single strike fell on Proposition's appeal to a historical above-chance corroboration rate, whose only stated test was a registry the Proposition itself conceded is unrecoverable; the asymmetry records one over-reach, not a ruling on the Motion. Notably, Proposition's surviving engine-claim (turn 3) abandoned the census route and relocated the above-chance condition to an a-priori claim about filter selectivity \u2014 which is the same ground Opposition's uncomputability claim stakes out \u2014 so the two sides' strongest surviving claims now meet on one field rather than passing each other.",
+  "audience_vote": null,
+  "verdict_divergence": null,
+  "cognee_dataset": "debates_2026_06_02",
+  "transcript_path": "/Volumes/Delila/Doozer/morph/meetings/shape-matching-vs-apophenia/transcript.md",
+  "ledger_path": "/Volumes/Delila/Doozer/morph/meetings/shape-matching-vs-apophenia/turns.jsonl"
+}
