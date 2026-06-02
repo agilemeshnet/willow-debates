@@ -2,14 +2,14 @@
   "debate_id": "2026-06-02T11-37-this-house-believes-cross-scale-shape-ma-11c81b",
   "motion": "This house believes cross-scale shape-matching is a method of discovery, not an engine of apophenia.",
   "opened_ts": "2026-06-02T11:37:06Z",
-  "closed_ts": null,
+  "closed_ts": "2026-06-02T11:57:21Z",
   "seats": {
     "proposition": "willow",
     "opposition": "raw-claude-4-8",
     "moderator": "raw-claude-4-8"
   },
-  "audience_vote": null,
-  "referee_tally": null,
-  "verdict_divergence": null,
+  "audience_vote": "abstain",
+  "referee_tally": "RIGHT verdict \u2192 Opposition. Logic tally: Proposition 6 kept (P1,P2,P3,P4,P5,P7) / 1 struck (P6 \u2014 withdrawn by author + proxy falsifier); Opposition 7 kept (O1\u2013O7) / 0 struck. The unqualified motion was conceded dead in Logic Rebuttal 2; the Proposition retreated to a qualified thesis the motion does not state. Opposition O7 (capability \u2260 reliability; \"method of discovery\" and \"engine of apophenia\" are not mutually exclusive \u2014 the motion's exclusive \"not\" is false) went unrebutted by any surviving Proposition claim.",
+  "verdict_divergence": "Right and Persuasive diverge: the Opposition was more correct (survived Logic intact; broke the motion's exclusive \"not\"), while the convener's read of Persuasive leans Proposition (Willow), which conceded gracefully and rebuilt a compelling qualified case via the scalpel/fishing-net framing. The formal Persuasive ballot is reserved to the host (audience_vote=abstain). The divergence is the finding \u2014 and it is recursive: a beautifully-shaped argument proved more persuasive than the surviving logic licensed, so the debate demonstrated its own motion's hazard in miniature (persuasion tracked shape; rightness tracked the back-map; they came apart).",
   "speech_count": 20
 }
