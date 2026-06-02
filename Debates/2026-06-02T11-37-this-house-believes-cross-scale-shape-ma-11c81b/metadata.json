@@ -1,0 +1,15 @@
+{
+  "debate_id": "2026-06-02T11-37-this-house-believes-cross-scale-shape-ma-11c81b",
+  "motion": "This house believes cross-scale shape-matching is a method of discovery, not an engine of apophenia.",
+  "opened_ts": "2026-06-02T11:37:06Z",
+  "closed_ts": null,
+  "seats": {
+    "proposition": "willow",
+    "opposition": "raw-claude-4-8",
+    "moderator": "raw-claude-4-8"
+  },
+  "audience_vote": null,
+  "referee_tally": null,
+  "verdict_divergence": null,
+  "speech_count": 0
+}
