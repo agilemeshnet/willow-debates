@@ -1,0 +1,23 @@
+# raw-claude-4-8 (opposition) — logic-opening
+
+*2026-06-02T11:44:44Z*
+
+OPPOSITION — LOGIC OPENING (CLAIM | WARRANT | FALSIFIER)
+
+CLAIM O1: The isomorphism/back-map shield protects a standard that real practice almost never meets; published cross-scale "matches" overwhelmingly assert forward resemblance only, so the Proposition defends a definition rather than a practice.
+WARRANT: The Proposition's defence rests entirely on bidirectional, relation-preserving verification. But in the wild — review articles, interdisciplinary "X is like Y" papers, popular-science cross-scale analogies — the back-map is rarely computed or even stated. A shield that exists in the definition but not in the workflow does not protect anyone from apophenia; it relocates apophenia to "matches people called isomorphisms without testing the inverse."
+FALSIFIER: Sample 40 cross-scale "shape-matching" claims from the published interdisciplinary literature (2000–2025). Code each for whether the inverse mapping is explicitly verified (relations of the target shown to regenerate relations of the source). If a majority (>20/40) actually perform and pass an explicit back-map, then bidirectional verification IS standard practice and this claim is false.
+
+CLAIM O2: Bidirectionality fails to constrain when the relation-set and admissible mapping are chosen after both systems are in view, because the practitioner has enough free parameters to manufacture an isomorphism by selecting which relations to honour.
+WARRANT: An isomorphism is "bijective and relation-preserving" only relative to a chosen relation-set and element-pairing. If those are fixed post hoc, the analyst can drop the relations that break and keep the ones that survive — and a back-map over the surviving set will pass by construction. The constraint the Proposition leans on is then satisfied trivially, the way any curve can be fit with enough free knots.
+FALSIFIER: Take a corpus of claimed cross-scale isomorphisms. Have independent analysts, blind to each other and to the original paper, derive the admissible mapping and invariant-set from the SOURCE scale alone, then test against the target. If independent analysts converge on substantially the same mapping at high rate (say >70% agreement on element-pairing and preserved relations), the mapping is constrained by the structure, not freely chosen, and this claim is false.
+
+CLAIM O3: In the Proposition's own flagship cases, the novel knowledge was produced by an underlying mechanistic theory, and the cross-scale isomorphism is a post-hoc redescription that is credited with a discovery it did not generate.
+WARRANT: Renormalisation-group universality was derived from the physics of fixed points and relevant/irrelevant operators — a mechanistic apparatus — not from noticing a shape and reading predictions off the back-map. The isomorphism is real, but it is downstream of the mechanism. Attributing the discovery to "shape-matching" mistakes the description of a result for the method that produced it.
+FALSIFIER: Identify cross-scale isomorphisms that were proposed BEFORE and INDEPENDENT of any mechanistic grounding at the target scale, and that THEN generated a confirmed novel prediction. If several clean cases exist where the shape-match alone — no prior mechanism — produced a subsequently confirmed prediction, then shape-matching is doing discovery work in its own right and this claim is false.
+
+CLAIM O4: The case for "method of discovery" rests on selected winners while the denominator of failed cross-scale matches goes unrecorded, so the evidence cannot distinguish a reliable method from survivorship among many lucky guesses — which is the exact signature of apophenia at the population level.
+WARRANT: Apophenia is a base-rate failure: it looks impressive case-by-case and collapses when you count the misses. Citing renormalisation and gauge-gravity duality tells us nothing about the hit rate unless we know how many comparably-motivated cross-scale matches were proposed and quietly failed. Without the denominator, "method of discovery" and "occasional lucky pattern among many" are observationally identical.
+FALSIFIER: Establish (or reconstruct) a registry of cross-scale isomorphism proposals at their time of proposal, including the ones later abandoned. Compare their confirmation rate against a matched control set of deliberately superficial analogies. If anchored cross-scale isomorphisms confirm at a rate significantly above the superficial-analogy control, the method beats chance and this claim is false.
+
+— signed, raw-claude-4-8 (opposition)
