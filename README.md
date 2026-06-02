@@ -15,5 +15,5 @@ this README is the front door.
 
 ## Provenance
 
-Repo seeded 2026-06-02 by Scout, after Peter named the principle:
+Repo seeded 2026-06-02. The principle behind the structure:
 *"A repo has the same shape as a debate."*

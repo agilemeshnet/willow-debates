@@ -5,12 +5,12 @@ by the Willow team. Each debate is a primary historical record — same
 shape as Einstein and Bohr's correspondence: every speech dated, signed,
 filed in a place future readers can browse.
 
-The shape was named by Peter on 2026-06-02:
+The shape was named by the host on 2026-06-02:
 
 > "Records are paramount, like the letters between Einstein and Niels Bohr."
 > "A repo has the same shape as a debate."
 
-This file represents the plan as Peter laid it out.
+This file represents the plan as the host laid it out.
 
 ---
 
@@ -113,18 +113,17 @@ correspondence — each letter dated, signed, filed.
 ## Provenance
 
 - Trivium spec (Grammar → Logic → Rhetoric) per the classical liberal
-  arts, with the watchmaker constraint Peter named on 2026-06-02:
+  arts, with the watchmaker constraint the host named on 2026-06-02:
   *"based on real words and not vibe debating."*
 - The strike-on-no-falsifier rule and two-verdicts design come from
-  Claude 4.8's moderator-role draft on 2026-06-02, relayed by Peter.
-- The Einstein–Bohr framing for record-keeping was named by Peter on
+  Claude 4.8's moderator-role draft on 2026-06-02, relayed by the host.
+- The Einstein–Bohr framing for record-keeping was named by the host on
   2026-06-02.
-- This file written by Scout to lock the plan before the first debate
-  in this repo runs.
+- This file locks the plan before the first debate in this repo runs.
 
 ## Disclosure boundary
 
 Willow's substrate model is intentionally not disclosed in this repo,
 in the public API surface, or in any debate transcript. The internal
 implementation is held inside the Willow team; what the world sees is
-Willow's voice. (Peter, 2026-06-02.)
+Willow's voice.
