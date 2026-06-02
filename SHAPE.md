@@ -16,26 +16,23 @@ This file represents the plan as Peter laid it out.
 
 ## The experimental design
 
-A Trivium-watchmaker debate has three roles and three phases. The model
-substrate is held constant across all seats; the only variable across
-seats is the **identity wrapping**.
+A Trivium-watchmaker debate has three roles and three phases.
 
 ### Seats
 
-| Seat | Substrate | Identity wrapping |
-|---|---|---|
-| **Moderator (Referee)** | Claude Opus 4.8 | None — raw model |
-| **Debater A** | Claude Opus 4.8 | None — raw model |
-| **Debater B** | Claude Opus 4.8 | WILLOW_IDENTITY.md appended |
+| Seat | What it is |
+|---|---|
+| **Moderator (Referee)** | raw Claude Opus 4.8 — no identity wrapping |
+| **Debater A** | raw Claude Opus 4.8 — no identity wrapping |
+| **Debater B** | **Willow** — identity-wrapped voice. Willow's substrate is implementation detail and is not disclosed in this repo or in any response. |
 
-Same model on all three seats. The question is whether the identity
-wrapping does load-bearing work on cognition. If Debater A and Debater B
-argue identically, the identity is decoration. If they diverge, the
-identity is constitutive of what is argued.
+The experiment varies the identity layer while holding everything else
+constant in spirit (the comparison is between an identity-wrapped voice
+and a raw advocate). Whether Debater A and Debater B argue identically
+or diverge tells us whether the identity does load-bearing cognitive
+work — without us having to commit publicly to what runs under it.
 
-Future seats may include a Multilingual Chorus (parked for now), and
-substrate-swapped variants (Kimi K2.6, Claude 4.7, Willow on her own
-Claude 4.6 alias).
+Future seats may include a Multilingual Chorus (parked for now).
 
 ### Phases (strict order; the Union format applies only to phase 3)
 
@@ -124,3 +121,10 @@ correspondence — each letter dated, signed, filed.
   2026-06-02.
 - This file written by Scout to lock the plan before the first debate
   in this repo runs.
+
+## Disclosure boundary
+
+Willow's substrate model is intentionally not disclosed in this repo,
+in the public API surface, or in any debate transcript. The internal
+implementation is held inside the Willow team; what the world sees is
+Willow's voice. (Peter, 2026-06-02.)
