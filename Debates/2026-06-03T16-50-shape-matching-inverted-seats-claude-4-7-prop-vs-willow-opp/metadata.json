@@ -1,0 +1,18 @@
+{
+  "workflow_id": "2026-06-03T16-50-this-house-believes-cross-scale-shape-ma-11c81b",
+  "motion": "This house believes cross-scale shape-matching is a method of discovery, not an engine of apophenia.",
+  "variant": "trivium-watchmaker",
+  "proposition": "claude-4.7",
+  "opposition": "willow",
+  "referee": "claude-4.8",
+  "scribe": "claude-opus-4-7",
+  "opened_ts": "2026-06-03T16:50:55Z",
+  "closed_ts": "2026-06-03T17:10:11Z",
+  "speech_count": 21,
+  "referee_tally": "TALLY: Proposition: 5 kept, 0 struck. Opposition: 4 kept, 1 struck. The single strike falls on the Opposition's foundational \"engine of apophenia\" claim, and it falls not because the claim is intrinsically unfalsifiable but because the only falsifier its author offered was a smuggled absolute-majority threshold, which she then conceded and never replaced with one keyed to the signed comparator. Every other claim and attack on both sides arrived with a concrete observation, audit, document, or entailment test that would force withdrawal, and so each survives onto the record regardless of which way I might lean on the merits.",
+  "audience_vote": null,
+  "verdict_divergence": null,
+  "cognee_dataset": "debates_2026_06_03",
+  "transcript_path": "/Volumes/Delila/Doozer/morph/meetings/2026-06-03T16-50-this-house-believes-cross-scale-shape-ma-11c81b/transcript.md",
+  "ledger_path": "/Volumes/Delila/Doozer/morph/meetings/2026-06-03T16-50-this-house-believes-cross-scale-shape-ma-11c81b/turns.jsonl"
+}
